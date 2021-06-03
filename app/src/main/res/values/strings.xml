@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Flickr App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+
+    // App Drawers
+    <string name="creator_name">Jonathan Williams</string>
+    <string name="creator_email">Jhono235@gmail.com</string>
+    <string name="favorites">Favorites</string>
+    <string name="history">History</string>
+
+    //Search
+    <string name="search_hint">Search Flickr Photos</string>
+    <string name="title_activity_full_size_image">FullSizeImageActivity</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Full Size Image</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="add_to_favorites">Add To Favorites</string>
+
+    <string name="current_page">Current Page: %1$d</string>
+
+    //Toast
+    <string name="please_enter_a_search_toast">Please Enter a Search</string>
+    <string name="favorite_added_toast">Favorite Added!</string>
+    <string name="favorite_removed_toast">Favorite Removed!</string>
+    <string name="end_of_results_toast">End of Results</string>
+    <string name="no_results_toast">No Results. Try Again!</string>
+
+    //Favorites
+    <string name="add_favorite">Add to Favorites</string>
+    <string name="remove_favorite">Remove Favorite</string>
+    <string name="title_activity_favorites">Favorites</string>
+
+
+</resources>
